@@ -14,11 +14,8 @@ import urllib3
 
 
 class Scrape:
-    def __init__(self):
-        episode_title = []
-        episode_description = []
-        episode_release_date = []
-
+    def __init__(self): pass
+        
     Soup = BeautifulSoup
 
     episode_title = []
